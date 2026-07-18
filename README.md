@@ -1,8 +1,8 @@
-#EMAAR Executive Development Portfolio & Strategic Intelligence Platform
+# 🏙️ EMAAR Executive Development Portfolio & Strategic Intelligence Platform
 
 An executive intelligence platform built for luxury real estate organizations, enabling leadership teams to monitor portfolio performance, market trends, sales, construction progress, investment opportunities, and business forecasts through a unified interactive dashboard.
 
-##  Features
+## ✨ Features
 
 - Executive Command Center with real-time KPIs
 - Portfolio & Development Explorer
